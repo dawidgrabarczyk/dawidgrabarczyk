@@ -5,7 +5,7 @@ My main interests lie in data analysis and data science, which is the field I wa
 
 On my GitHub profile, you will find projects related to data analysis, which I undertake both as part of my studies and personal interests. Feel free to browse through them and reach out if you have any questions or are interested in collaboration.
 
-Skills and Tools:
+### Skills and Tools:
 - Python
 - Jupyter Notebook
 - Git (GitHub).
